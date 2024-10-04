@@ -17,7 +17,7 @@ This Python program implements a basic keylogger that records and logs keystroke
 ## bash
   pip install pynput
 
-##Usage
+## Usage
 
 Run the Program: Execute the script to start the keylogger program.
 
